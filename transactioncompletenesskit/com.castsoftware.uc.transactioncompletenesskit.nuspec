@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.transactioncompletenesskit</id>
+    <version>1.0.2</version>
+    <title>Transaction Completeness Kit</title>
+    <authors>CAST SMEs Group</authors>
+    <owners>CAST SMEs Group</owners>
+    <projectUrl>https://github.com/PhilippeGuerin/CASTTransactionCompletenessKit/wiki</projectUrl>
+	 <iconUrl>https://calliopeconsultinggroup.files.wordpress.com/2016/12/completnesstransact.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provide a first set of SQL views to assist the completeness of transaction - CSS only</description>
+    <releaseNotes>Creation</releaseNotes>
+    <tags>AFP CAIP8.2 CAIP8.1 CSS </tags>
+    <dependencies>
+      <dependency id="CAIP" version="8.1" />
+    </dependencies>
+	<licenseUrl>https://help.castsoftware.com/hc/en-us/articles/212612648-Application-Intelligence-Platform-Extension-License</licenseUrl>
+  </metadata>
+</package>

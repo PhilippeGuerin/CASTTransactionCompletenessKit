@@ -1,0 +1,18 @@
+
+DROP VIEW custom_kit_completness_scope_lookuptable
+/
+
+DROP VIEW custom_kit_completness_boundary_deligntransac
+/
+DROP VIEW custom_kit_completness_boundary_deligndataentity
+/
+
+DROP VIEW custom_kit_completness_functionalsize_dataentity
+/
+DROP VIEW custom_kit_completness_functionalsize_transaction
+/
+
+DROP VIEW custom_kit_completness_functionalsize_detailgrouptransaction
+/
+DROP VIEW custom_kit_completness_functionalsize_detailgroupdataentity
+/
